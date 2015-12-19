@@ -1,0 +1,10 @@
+Your grade is determined by your total weighted score along with the curve. The maximum score is 115.
+
+If your weighted  score is  more than 79/115, you should get an A
+If your weighted score is more than 72/115, you should get a B+
+If your weighted score is more than 65/115, you should get a B
+If your weighted score is more than 58/115, you should get a C+
+If your weighted score is more than 47/115, you should get a C
+If your weighted score is more than 37/115, you should get a D
+
+Your weighted score is the sum of five scores: (sum of 4 best assignments) * 40/400 +  (sum of midterm scores) * 30/200 + (sum of PA2 + PA4 extra credit)* 7.5/100 + (Your final score * 30)/100 + (your final extra credit) * 7.5/30.
